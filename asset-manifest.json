@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deployportfolio/static/css/main.c266f0d0.css",
+    "main.js": "/deployportfolio/static/js/main.ea03ac85.js",
+    "static/media/img.jpg": "/deployportfolio/static/media/img.82fe8609b1b0ab53fa86.jpg",
+    "static/media/TitilliumWeb-Light.ttf": "/deployportfolio/static/media/TitilliumWeb-Light.2b8d1521998c2d55bb51.ttf",
+    "static/media/TitilliumWeb-Regular.ttf": "/deployportfolio/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/TitilliumWeb-SemiBold.ttf": "/deployportfolio/static/media/TitilliumWeb-SemiBold.d4d3eeb6e2367e6796c3.ttf",
+    "static/media/TitilliumWeb-Bold.ttf": "/deployportfolio/static/media/TitilliumWeb-Bold.a267a8b6b783d7d62039.ttf",
+    "index.html": "/deployportfolio/index.html",
+    "main.c266f0d0.css.map": "/deployportfolio/static/css/main.c266f0d0.css.map",
+    "main.ea03ac85.js.map": "/deployportfolio/static/js/main.ea03ac85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c266f0d0.css",
+    "static/js/main.ea03ac85.js"
+  ]
+}
