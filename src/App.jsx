@@ -15,8 +15,8 @@ function App() {
             <ContextProvider>
                 <Routes>
                     <Route path='*' element={<Error />} />
-                    <Route path='/' element={<Home />} />
-                    <Route path='/contact' element={<Contact />} />
+                    <Route path='/deployportfolio' element={<Home />} />
+                    <Route path='/deployportfolio/contact' element={<Contact />} />
                 </Routes>
             </ContextProvider>
         </>

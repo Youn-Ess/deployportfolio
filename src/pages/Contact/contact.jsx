@@ -149,7 +149,7 @@ export const Contact = () => {
                                 <div className="flex gap-[2rem]">
 
                                     <IoMdRefresh onClick={handleRefresh} className="text-[1.7rem] text-lightViolet cursor-pointer" />
-                                    <HiOutlineXMark onClick={() => navigate('/')} className="text-[1.7rem] text-lightViolet cursor-pointer" />
+                                    <HiOutlineXMark onClick={() => navigate('/deployportfolio')} className="text-[1.7rem] text-lightViolet cursor-pointer" />
                                     <input checked={isDarkMode} onClick={(e) => handlDarkModeClick(e)} id="checkboxdarkmode" type="checkbox" class="theme-checkbox" />
 
                                 </div>

@@ -29,7 +29,7 @@ export const MyNavbar = () => {
                         <a href="" className={`font-titiSemibold text-[1.1rem] transition duration-500 hover:text-lightViolet ${isDarkMode ? 'text-veryLightGray' : `text-darkViolet`}`}>Works 'coming soon :/'</a>
                     </div>
                     <div className="flex items-center gap-7">
-                        <button onClick={() => navigate('/contact')} className="text-lightViolet border-2 border-lightViolet  rounded-3xl px-[1.7rem] py-[0.6rem] font-titiSemibold text-[1.1rem] flex items-center gap-3 transition duration-500 hover:bg-lightViolet hover:text-white ">Say Hello</button>
+                        <button onClick={() => navigate('/deployportfolio/contact')} className="text-lightViolet border-2 border-lightViolet  rounded-3xl px-[1.7rem] py-[0.6rem] font-titiSemibold text-[1.1rem] flex items-center gap-3 transition duration-500 hover:bg-lightViolet hover:text-white ">Say Hello</button>
                         <input checked={isDarkMode} onClick={(e) => handlDarkModeClick(e)} id="checkboxdarkmode" type="checkbox" class="theme-checkbox" />
                     </div>
                 </div>

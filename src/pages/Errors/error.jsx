@@ -341,7 +341,7 @@ export const Error = () => {
                     </g>
                 </svg>
                 <div className="pb-[4rem]">
-                    <button onClick={() => navigate('/')} className="text-lightViolet border-2 border-lightViolet  rounded-3xl px-[1.7rem] py-[0.6rem] font-titiSemibold text-[1.1rem] flex items-center gap-3 transition duration-500 hover:bg-lightViolet hover:text-white ">go to home page</button>
+                    <button onClick={() => navigate('/deployportfolio')} className="text-lightViolet border-2 border-lightViolet  rounded-3xl px-[1.7rem] py-[0.6rem] font-titiSemibold text-[1.1rem] flex items-center gap-3 transition duration-500 hover:bg-lightViolet hover:text-white ">go to home page</button>
                 </div>
             </div>
         </>

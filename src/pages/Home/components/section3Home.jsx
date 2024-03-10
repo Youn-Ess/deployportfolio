@@ -20,7 +20,7 @@ export const Section3Home = () => {
                 <div className="w-[80%]  bg-darkViolet absolute top-[67vh] rounded-xl flex justify-between items-center px-[6.5rem] py-[3.5rem]">
                     <h1 className="text-[2.2rem] font-titiBold text-center text-white ">Start a project</h1>
                     <p className="w-[40%] text-center text-[1.2rem] font-titiRegular text-white">Interested in working together? Let's pick a time to chat. I'll cover the coffee.</p>
-                    <button onClick={() => navigate('/contact')} className="text-white border-2 border-lightGreen rounded-3xl px-[1.7rem] py-[0.6rem] text-[1.1rem] flex items-center gap-3 hover:bg-lightGreen hover:text-darkViolet transition duration-500"><AiOutlineFileDone className="text-[1.5rem]" /> <p>Let's do this</p></button>
+                    <button onClick={() => navigate('/deployportfolio/contact')} className="text-white border-2 border-lightGreen rounded-3xl px-[1.7rem] py-[0.6rem] text-[1.1rem] flex items-center gap-3 hover:bg-lightGreen hover:text-darkViolet transition duration-500"><AiOutlineFileDone className="text-[1.5rem]" /> <p>Let's do this</p></button>
                 </div>
             </div>
         </>
